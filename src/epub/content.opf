@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Peter and Wendy</dc:title>
 		<meta property="file-as" refines="#title">Peter and Wendy</meta>
 		<dc:subject id="subject-1">Fantasy literature</dc:subject>
@@ -34,19 +34,22 @@
 		<dc:subject id="subject-3">Never-Never Land (Imaginary place) -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Pirates -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Fairies -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/26654</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/26654</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/26654</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/26654</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/26654</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047145</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008109300</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008103468</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Peter Pan, a young boy who refuses to grow up, takes Wendy to the lost boys on the fantasy island of the Neverland to be their mother. Wendy’s two brothers, John and Michael, accompany them on their on many adventures, including skirmishes with the Native Americans who reside there, and battles with pirates, led by Pan’s nemesis Captain Hook, who is said to be feared even by Captain Flint and Long John Silver.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Peter and Wendy&lt;/i&gt;, J. M. Barrie’s most famous work, was influenced by Barrie’s relationship with the Llewelyn Davies family and the death of his older brother, who, by dying in his youth, would remain a young boy forever. It began as a play first performed in 1904, and then was later published as a novel in 1911. A large number of adaptations including plays, television, and films have since been produced.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26654</dc:source>
 		<dc:source>https://books.google.com/books?id=9YEOAAAAIAAJ</dc:source>
