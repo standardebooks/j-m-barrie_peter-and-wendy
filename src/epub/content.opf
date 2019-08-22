@@ -47,7 +47,7 @@
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">A mischievous and cocky young boy, Peter Pan, takes Wendy and her brothers on adventures on a fantasy island consisting of mermaids, pirates, Native Americans, and fairies.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Peter Pan, a young boy who refuses to grow up, takes Wendy to the lost boys on the fantasy island of the Neverland to be their mother. Wendy’s two brothers, John and Michael, accompany them on their on many adventures, including skirmishes with the Native Americans who reside there, and battles with pirates, led by Pan’s nemesis Captain Hook, who is said to be feared even by Captain Flint and Long John Silver.&lt;/p&gt;
+			&lt;p&gt;Peter Pan, a young boy who refuses to grow up, takes Wendy to the lost boys on the fantasy island of the Neverland to be their mother. Wendy’s two brothers, John and Michael, accompany them on their many adventures, including skirmishes with the Native Americans who reside there, and battles with pirates, led by Pan’s nemesis Captain Hook, who is said to be feared even by Captain Flint and Long John Silver.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Peter and Wendy&lt;/i&gt;, J. M. Barrie’s most famous work, was influenced by Barrie’s relationship with the Llewelyn Davies family and the death of his older brother, who, by dying in his youth, would remain a young boy forever. It began as a play first performed in 1904, and then was later published as a novel in 1911. A large number of adaptations including plays, television, and films have since been produced.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
