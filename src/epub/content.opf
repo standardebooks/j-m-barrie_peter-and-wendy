@@ -32,6 +32,7 @@
 		<meta property="file-as" refines="#title">Peter and Wendy</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="title-short">Peter Pan</dc:title>
+		<meta property="file-as" refines="#title-short">Peter Pan</meta>
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Fantasy literature</dc:subject>
 		<dc:subject id="subject-2">Peter Pan (Fictitious character) -- Fiction</dc:subject>
